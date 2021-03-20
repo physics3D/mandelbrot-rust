@@ -1,6 +1,2 @@
 # mandelbrot-rust
-
-mandelbrot set written in rust
-run
-cargo run
-to build to application and run it.
+Mandelbrot set written in rust. Run `cargo run` to build to the application and run it.
